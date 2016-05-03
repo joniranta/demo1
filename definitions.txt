@@ -1,0 +1,2 @@
+Operating systems: windows, iOS
+Databases: MySQL, SQL Server
